@@ -20,7 +20,7 @@
       "googleServicesFile": "./google-services.json",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDjBcQXg3MZ1dWdiuQ62QTrduod_ylDNqo"
+          "apiKey": "yourGoogleApiKey"
         }
       },
       "adaptiveIcon": {
